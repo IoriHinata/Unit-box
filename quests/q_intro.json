@@ -1,0 +1,20 @@
+{
+  "id": "q_intro",
+  "name": "Первый шаг",
+  "description": "Соберите 3 палки",
+  "initiator": {
+    "type": "npc_neutral",
+    "col": 2,
+    "row": 2
+  },
+  "steps": [
+    {
+      "npc_text": "Помоги мне",
+      "objective": "collect:stick:3",
+      "reward": {
+        "xp": 10
+      }
+    }
+  ],
+  "next_quest": null
+}
