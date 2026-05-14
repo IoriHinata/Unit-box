@@ -1,0 +1,1 @@
+{"type":"storage","name":"Chest","texture":"chest.png","height":1,"width":1,"collision":true,"slots":8,"possible_items":[{"id":"apple","chance":0.8,"min_qty":1,"max_qty":4}]}

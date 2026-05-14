@@ -1,0 +1,8 @@
+{
+  "structures": [],
+  "objects": [
+    {"type":"wall","col":3,"row":3,"chance":1.0},
+    {"type":"resource","col":4,"row":2,"chance":1.0},
+    {"type":"storage","col":5,"row":5,"chance":1.0}
+  ]
+}

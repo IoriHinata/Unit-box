@@ -1,0 +1,1 @@
+{"type":"resource","name":"Tree","texture":"tree.png","height":2,"width":1,"collision":true,"tool_required":"axe","durability_cost":1,"loot_table":[{"id":"wood","chance":1.0,"min_qty":1,"max_qty":3}]}

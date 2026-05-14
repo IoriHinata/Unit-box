@@ -1,0 +1,8 @@
+[
+  {
+    "name": "plank_from_wood",
+    "ingredients": {"wood": 2},
+    "tool": null,
+    "result": {"id": "plank", "qty": 1}
+  }
+]
